@@ -40,4 +40,4 @@ If you try to boot using the stock EFI folder, you will not be able to. Feel fre
 
 As mentioned above, use CorpNewt's GenSMBIOS to add a suitable SMBIOS.
 
-Wallpaper Link: [iOS 13.png.zip](https://github.com/moneaalhad/LenovoB50.80_Hackintosh/files/7615976/iOS.13.png.zip)
+[Wallpaper Link](https://github.com/moneaalhad/LenovoB50.80_Hackintosh/files/7615976/iOS.13.png.zip)
