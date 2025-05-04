@@ -1,6 +1,6 @@
 # Lenovo B50-80 Hackintosh (Lenovo 80EW)
 
-This EFI folder comes with absolutely no warranty - use at your own risk. I've removed my system's serial number and MLB settings, so you will need to add those in order to instll macOS. See CorpNewt's GenSMBIOS on how to do that - https://github.com/corpnewt/GenSMBIOS.
+This EFI folder comes with absolutely no warranty - use at your own risk. I've removed my system's serial number and MLB settings, so you will need to add those in order to install macOS. See CorpNewt's GenSMBIOS on how to do that - https://github.com/corpnewt/GenSMBIOS.
 
 ## Specifications
 1. 5th Generation Dual-Core Intel i3-5005U, 1.9 GHz (Configured to 0.8 GHz idle, 1.9 GHz Max)
@@ -32,10 +32,9 @@ This EFI folder comes with absolutely no warranty - use at your own risk. I've r
 2. Continuity and Handoff - AirDrop doesn't work. Your other iDevices will show up, and so will the MacBook Air, but no files will be shared
 3. LidSleep / LidWake - see above, doesn't work
 4. Touch Sensor - this is a hardware problem, will NOT be fixed
-5. Sidecar - the 5th Gen Processors do not have H.265 Decode-Encode so Sidecar requires a cable. Moreover the picture will be distorted and heavily bleeding, not recommended at all.
-6. You tell me :D
+5. Sidecar - the 5th Gen Processors do not have H.265 Decode-Encode so Sidecar requires a cable. Moreover the picture will be distorted and bleed horribly; not recommended at all.
 
-## Caution: Remember to add your Serial Number, MLB, ROM, UUID and SMBIOS!
+## Remember to add your Serial Number, MLB, ROM, UUID and SMBIOS!
 If you try to boot using the stock EFI folder, you will not be able to. Feel free to try. 
 
 As mentioned above, use CorpNewt's GenSMBIOS to add a suitable SMBIOS.
